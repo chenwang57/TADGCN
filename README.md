@@ -43,5 +43,12 @@ Subsequently, execute the following command to test the model:
 
 Please cite the following paper, if you find the repository or the paper useful.
 
-    xxx
+    @article{wang2024tadgcn,
+        title={TADGCN: A Time-Aware Dynamic Graph Convolution Network for long-term traffic flow prediction},
+        author={Wang, Chen and Zuo, Kaizhong and Zhang, Shaokun and Liu, Chunyang and Peng, Hao and Li, Wenjie and Shen, Zhangyi and Hu, Peng and Wang, Rui and Jie, Biao},
+        journal={Expert Systems with Applications},
+        pages={125134},
+        year={2024},
+        publisher={Elsevier}
+    }
 
