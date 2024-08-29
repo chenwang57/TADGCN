@@ -2,6 +2,8 @@
 
 This is a TensorFlow implementation of TADGCN.
 
+**Important Notice: Email Update to** chenwang99@buaa.edu.cn
+
 ## Requirements
 
 * TensorFlow-gpu==2.5.0
